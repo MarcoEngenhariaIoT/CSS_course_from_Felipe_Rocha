@@ -1,0 +1,5 @@
+Existem 3 formas de adicionar CSS no HTML
+
+InLine CSS: Direto no elemento HTML (má prática)
+CSS Interno: Usando tags <style> no documento HTML
+CSS Externo: Importando de um arquivo .css no HTML
